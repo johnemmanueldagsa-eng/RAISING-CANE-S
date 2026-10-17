@@ -11,7 +11,7 @@ const MainLogo = () => {
       <img 
         src="https://i.imgur.com/KmMQRcN.png" 
         alt="Marshalls Logo" 
-        className="h-10 sm:h-12 w-30 object-contain transition-all duration-700 hover:brightness-110"
+        className="h-12 sm:h-14 w-32 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
   );
