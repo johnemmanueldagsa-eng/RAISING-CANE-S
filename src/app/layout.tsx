@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   description: "Participate in the Raising Cane's Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
-      { url: "https://i.imgur.com/zfAfuzZ.png", type: "image/png" },
+      { url: "https://i.imgur.com/BQPpU0X.png", type: "image/png" },
     ],
-    shortcut: "https://i.imgur.com/zfAfuzZ.png",
+    shortcut: "https://i.imgur.com/BQPpU0X.png",
     apple: [
-      { url: "https://i.imgur.com/zfAfuzZ.png", sizes: "500x500", type: "image/png" },
+      { url: "https://i.imgur.com/BQPpU0X.png", sizes: "500x500", type: "image/png" },
     ],
     other: [
       {
