@@ -5,8 +5,8 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Target Gift Card",
-  description: "Participate in the Target Rewards program and get a chance to claim a $500 gift card.",
+  title: "Raising Cane's Gift Card",
+  description: "Participate in the Raising Cane's Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
       { url: "https://i.imgur.com/zfAfuzZ.png", type: "image/png" },
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     other: [
       {
         rel: "apple-touch-icon-precomposed",
-        url: "https://i.imgur.com/zfAfuzZ.png",
+        url: "https://i.imgur.com/BQPpU0X.png",
       },
     ],
   },
